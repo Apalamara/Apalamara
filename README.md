@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: Python & Javascript
+- ⚡ Fun fact: if you want to surprise me buy me sambayon ice-cream :icecream:
